@@ -2,4 +2,4 @@
 - The page has a 3d model of the star trail and the blackhole in a simplified manner by it 
 - On the top righthand corner there is the name of the blackhole 'RHB-1' and the basics about it (speed, age, origin...)
 - Directly below the text and aligned with it a graph of the gravitational pull in its proximity
-- 
+- sdfghjioiuyredfghjkjhgfd
